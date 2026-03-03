@@ -1,4 +1,5 @@
 # Merhaba, ben Hasan Cem Pınar! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-cem-p%C4%B1nar-ba2610126/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=google&logoColor=white)](mailto:hasancempinar@gmail.com )
 
 Yazılım geliştirme yolculuğumda Unity ile oyunlar, Web teknolojileri ile modern siteler ve Blender ile 3D dünyalar inşa ediyorum.
 
@@ -41,7 +42,5 @@ Projelerimi daha rahat inceleyebilmeniz için kategorilere ayırdım:
 **🎨 3D Design** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
-
-📫 **Contact** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-cem-p%C4%B1nar-ba2610126/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=google&logoColor=white)](mailto:hasancempinar@gmail.com )
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=KULLANICI_ADIN.KULLANICI_ADIN)
