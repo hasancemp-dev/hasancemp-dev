@@ -16,8 +16,8 @@ Projelerimi daha rahat inceleyebilmeniz için kategorilere ayırdım:
 
 * 🌐 **[Web Geliştirme Projelerim](https://github.com/stars/hasancemp-dev/lists/web)**
     * *ASP.NET MVC, React ve modern web teknolojileri.*
-* * 🖥️ **[C# Projelerim](https://github.com/stars/hasancemp-dev/lists/c-projects)**
-    * *Web ve oyun dışındaki sistem mimarileri ve algoritma çalışmaları.*
+* 🖥️ **[C# Projelerim](https://github.com/stars/hasancemp-dev/lists/c-projects)**
+  * *Web ve oyun dışındaki sistem mimarileri ve algoritma çalışmaları.*
 * 🎮 **[Unity Oyun Projelerim](https://github.com/stars/hasancemp-dev/lists/unity)**
     * *C# ile geliştirilmiş 2D/3D oyun projeleri.*
 * 🎨 **[Blender 3D Çalışmalarım](https://github.com/stars/hasancemp-dev/lists/blender)**
