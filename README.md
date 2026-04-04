@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=google&logoColor=white" alt="Gmail">
 </a>
 
-Yazılım geliştirme yolculuğumda Unity ile oyunlar, Web teknolojileri ile modern siteler ve Blender ile 3D dünyalar inşa ediyorum.
+Yazılım geliştirme yolculuğumda, web teknolojileri ile modern siteler, web tabanlı uygulamalar ve console uygulamaları inşa ediyorum.
 
 ---
 
