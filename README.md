@@ -18,10 +18,6 @@ Projelerimi daha rahat inceleyebilmeniz için kategorilere ayırdım:
     * *ASP.NET MVC, React ve modern web teknolojileri.*
 * 🖥️ **[C# Projelerim](https://github.com/stars/hasancemp-dev/lists/c-projects)**
   * *Web ve oyun dışındaki sistem mimarileri ve algoritma çalışmaları.*
-* 🎮 **[Unity Oyun Projelerim](https://github.com/stars/hasancemp-dev/lists/unity)**
-    * *C# ile geliştirilmiş 2D/3D oyun projeleri.*
-* 🎨 **[Blender 3D Çalışmalarım](https://github.com/stars/hasancemp-dev/lists/blender)**
-    * *Karakter modelleme ve çevre tasarımları.*
 
 ---
 
@@ -44,8 +40,5 @@ Projelerimi daha rahat inceleyebilmeniz için kategorilere ayırdım:
 
 **💻 Frontend & Scripting**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🎮 Game Development** ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-**🎨 3D Design** ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+ 
 
